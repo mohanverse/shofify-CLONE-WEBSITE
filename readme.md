@@ -1,5 +1,7 @@
 # shofify CLONE WEBSITE
+
 ## Project17 | <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` shofify CLONE WEBSITE</button></a>
+
 ### By mohanverse
 
 # Live Link-: [VERCEL](https://vercel.com/mohanverse/shofify-clone-website/3gX1bUArwUzCEkjD1iRrDNQh5mN8)
@@ -17,9 +19,13 @@
 ![project17](./screenshotes/Screenshot%20(129).png)
 
 # What I Learned from this project
+
 # HTML
+
 # css
+
 # TAILWIND CSS
+
 # BOOSTRAP
 
 * This project gave me good learning experience.
